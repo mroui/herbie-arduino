@@ -1,6 +1,5 @@
 
 #include "LedControl.h"
-#include "binary.h"
 
 #define DIN 11
 #define CLK 12
