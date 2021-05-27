@@ -92,7 +92,7 @@ I painted the whole case and at the end I found out that it looks like a little 
 * Interrupting sleep when tapping on the head
 
 ## Presentation
-How Herbie looks like now:
+**How Herbie looks like now:**
 <p align="center">
     <img src="./images/herbie_2.jpg" alt="Herbie robot connections img"/>
     </br>
@@ -106,7 +106,7 @@ How Herbie looks like now:
 </p>
 
 
-**And for the most durable ones 😅 [this is how Herbie works](video/herbie_video.mp4)**
+**And for the most persistent ones 😅 [this is how Herbie works](video/herbie_video.mp4)**
 
 
 <h2 align="center">
